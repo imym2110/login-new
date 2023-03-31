@@ -1,0 +1,18 @@
+h1{
+    margin: 300px auto 15px auto;
+    text-align: center;
+}
+
+.submit{
+    display: flex;
+    width: 5%;
+    margin: auto;
+    padding: 9px;
+    justify-content: center;
+    border-radius: 7px;
+
+    &:hover{
+        background-color: greenyellow;
+        
+    }
+}
